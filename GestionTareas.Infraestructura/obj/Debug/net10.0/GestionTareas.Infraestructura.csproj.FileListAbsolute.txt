@@ -1,0 +1,17 @@
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Infraestructura.deps.json
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Infraestructura.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Infraestructura.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Aplicacion.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Dominio.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Dominio.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\bin\Debug\net10.0\GestionTareas.Aplicacion.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.csproj.AssemblyReference.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.AssemblyInfoInputs.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.AssemblyInfo.cs
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionT.1446BC7B.Up2Date
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\refint\GestionTareas.Infraestructura.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\GestionTareas.Infraestructura.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Infraestructura\obj\Debug\net10.0\ref\GestionTareas.Infraestructura.dll

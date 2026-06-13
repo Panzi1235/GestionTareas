@@ -1,0 +1,11 @@
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\bin\Debug\net10.0\GestionTareas.Dominio.deps.json
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\bin\Debug\net10.0\GestionTareas.Dominio.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\bin\Debug\net10.0\GestionTareas.Dominio.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\GestionTareas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\GestionTareas.Dominio.AssemblyInfoInputs.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\GestionTareas.Dominio.AssemblyInfo.cs
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\GestionTareas.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\GestionTareas.Dominio.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\refint\GestionTareas.Dominio.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\GestionTareas.Dominio.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Dominio\obj\Debug\net10.0\ref\GestionTareas.Dominio.dll

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\GestionTareasBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F698F3C4-57C9-34D9-07F0-854126E2EDAB}|GestionTareas.Api\\GestionTareas.Api.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F698F3C4-57C9-34D9-07F0-854126E2EDAB}|GestionTareas.Api\\GestionTareas.Api.csproj|solutionrelative:gestiontareas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F698F3C4-57C9-34D9-07F0-854126E2EDAB}|GestionTareas.Api\\GestionTareas.Api.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F698F3C4-57C9-34D9-07F0-854126E2EDAB}|GestionTareas.Api\\GestionTareas.Api.csproj|solutionrelative:gestiontareas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\GestionTareasMovil\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F698F3C4-57C9-34D9-07F0-854126E2EDAB}|GestionTareas.Api\\GestionTareas.Api.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.api\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F698F3C4-57C9-34D9-07F0-854126E2EDAB}|GestionTareas.Api\\GestionTareas.Api.csproj|solutionrelative:gestiontareas.api\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A022F8-5B65-5D6B-1321-5A1EBEFED5EB}|GestionTareas.Infraestructura\\GestionTareas.Infraestructura.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.infraestructura\\repositorios\\tarearepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A022F8-5B65-5D6B-1321-5A1EBEFED5EB}|GestionTareas.Infraestructura\\GestionTareas.Infraestructura.csproj|solutionrelative:gestiontareas.infraestructura\\repositorios\\tarearepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A022F8-5B65-5D6B-1321-5A1EBEFED5EB}|GestionTareas.Infraestructura\\GestionTareas.Infraestructura.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.infraestructura\\conexion\\fabricaconexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A022F8-5B65-5D6B-1321-5A1EBEFED5EB}|GestionTareas.Infraestructura\\GestionTareas.Infraestructura.csproj|solutionrelative:gestiontareas.infraestructura\\conexion\\fabricaconexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.aplicacion\\servicios\\tareaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|solutionrelative:gestiontareas.aplicacion\\servicios\\tareaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.aplicacion\\interfaces\\itareaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|solutionrelative:gestiontareas.aplicacion\\interfaces\\itareaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.aplicacion\\interfaces\\itarearepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|solutionrelative:gestiontareas.aplicacion\\interfaces\\itarearepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.aplicacion\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|solutionrelative:gestiontareas.aplicacion\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C9BD4-AD97-787B-20CB-789AA0A5F522}|GestionTareas.Dominio\\GestionTareas.Dominio.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.dominio\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05C9BD4-AD97-787B-20CB-789AA0A5F522}|GestionTareas.Dominio\\GestionTareas.Dominio.csproj|solutionrelative:gestiontareas.dominio\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasMovil\\App.tsx",
+              "RelativeDocumentMoniker": "..\\GestionTareasMovil\\App.tsx",
+              "ToolTip": "C:\\Proyectos\\GestionTareasMovil\\App.tsx",
+              "RelativeToolTip": "..\\GestionTareasMovil\\App.tsx",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-13T18:45:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionTareas.Api\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Api\\appsettings.json",
+              "RelativeToolTip": "GestionTareas.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T18:32:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Api\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Api\\Program.cs",
+              "RelativeToolTip": "GestionTareas.Api\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:30:52.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Api\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Api\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Api\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "GestionTareas.Api\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:30:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaRepositorio.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Infraestructura\\Repositorios\\TareaRepositorio.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Infraestructura\\Repositorios\\TareaRepositorio.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Infraestructura\\Repositorios\\TareaRepositorio.cs",
+              "RelativeToolTip": "GestionTareas.Infraestructura\\Repositorios\\TareaRepositorio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:23:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FabricaConexionSql.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Infraestructura\\Conexion\\FabricaConexionSql.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Infraestructura\\Conexion\\FabricaConexionSql.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Infraestructura\\Conexion\\FabricaConexionSql.cs",
+              "RelativeToolTip": "GestionTareas.Infraestructura\\Conexion\\FabricaConexionSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:22:47.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TareaServicio.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\Servicios\\TareaServicio.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Aplicacion\\Servicios\\TareaServicio.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\Servicios\\TareaServicio.cs",
+              "RelativeToolTip": "GestionTareas.Aplicacion\\Servicios\\TareaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:19:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITareaServicio.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\Interfaces\\ITareaServicio.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Aplicacion\\Interfaces\\ITareaServicio.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\Interfaces\\ITareaServicio.cs",
+              "RelativeToolTip": "GestionTareas.Aplicacion\\Interfaces\\ITareaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:18:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITareaRepositorio.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\Interfaces\\ITareaRepositorio.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Aplicacion\\Interfaces\\ITareaRepositorio.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\Interfaces\\ITareaRepositorio.cs",
+              "RelativeToolTip": "GestionTareas.Aplicacion\\Interfaces\\ITareaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:18:26.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TareaDto.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "RelativeToolTip": "GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:16:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Dominio\\Entidades\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Dominio\\Entidades\\Tarea.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Dominio\\Entidades\\Tarea.cs",
+              "RelativeToolTip": "GestionTareas.Dominio\\Entidades\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:15:17.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

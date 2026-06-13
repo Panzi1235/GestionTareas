@@ -1,0 +1,15 @@
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\bin\Debug\net10.0\GestionTareas.Aplicacion.deps.json
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\bin\Debug\net10.0\GestionTareas.Aplicacion.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\bin\Debug\net10.0\GestionTareas.Aplicacion.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\bin\Debug\net10.0\GestionTareas.Dominio.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\bin\Debug\net10.0\GestionTareas.Dominio.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.csproj.AssemblyReference.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.AssemblyInfoInputs.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.AssemblyInfo.cs
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionT.46BD04FD.Up2Date
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\refint\GestionTareas.Aplicacion.dll
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\GestionTareas.Aplicacion.pdb
+C:\Proyectos\GestionTareasBackend\GestionTareas.Aplicacion\obj\Debug\net10.0\ref\GestionTareas.Aplicacion.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\GestionTareasBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|c:\\proyectos\\gestiontareasbackend\\gestiontareas.aplicacion\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C01A83A-E77A-063E-8972-FF226C955F1A}|GestionTareas.Aplicacion\\GestionTareas.Aplicacion.csproj|solutionrelative:gestiontareas.aplicacion\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareaDto.cs",
+              "DocumentMoniker": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "RelativeDocumentMoniker": "GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "ToolTip": "C:\\Proyectos\\GestionTareasBackend\\GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "RelativeToolTip": "GestionTareas.Aplicacion\\DTOs\\TareaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:16:50.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
