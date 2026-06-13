@@ -274,6 +274,133 @@ Se utilizó React Native CLI para tener mayor control sobre la configuración na
 
 ---
 
+## Instalación y Ejecución
+
+### 1. Requisitos Previos
+
+Instalar las siguientes herramientas:
+
+- .NET SDK 10 o superior
+- SQL Server Express 2022
+- SQL Server Management Studio
+- Node.js
+- JDK 17
+- Android Studio
+- Android SDK
+- Git
+
+---
+
+### 2. Configurar Base de Datos
+
+Abrir SQL Server Management Studio y ejecutar el script ubicado en:
+
+```text
+scripts/BaseDatos.sql
+```
+
+Este script crea:
+
+- Base de datos `GestionTareasDb`
+- Tabla `Tarea`
+- Datos de prueba
+- Procedimientos almacenados
+
+---
+
+### 3. Ejecutar Backend
+
+Ingresar a la carpeta de la API:
+
+```bash
+cd GestionTareas.Api
+```
+
+Ejecutar:
+
+```bash
+dotnet restore
+dotnet run
+```
+
+La API quedará disponible en:
+
+```text
+http://localhost:5003
+```
+
+Swagger:
+
+```text
+http://localhost:5003/swagger
+```
+
+---
+
+### 4. Ejecutar Frontend React Native
+
+Ingresar a la carpeta del frontend:
+
+```bash
+cd Frontend/GestionTareasMovil
+```
+
+Instalar dependencias:
+
+```bash
+npm install
+```
+
+Iniciar Metro:
+
+```bash
+npx react-native start
+```
+
+En otra consola, ejecutar Android:
+
+```bash
+npx react-native run-android
+```
+
+---
+
+### 5. Consideración para Emulador Android
+
+La aplicación móvil consume la API usando:
+
+```text
+http://10.0.2.2:5003/api/Tareas
+```
+
+En Android Emulator, `10.0.2.2` apunta al `localhost` de la PC.
+
+---
+
+### 6. Pruebas Rápidas de API
+
+Listar tareas:
+
+```text
+http://localhost:5003/api/Tareas
+```
+
+Obtener tarea:
+
+```text
+http://localhost:5003/api/Tareas/1
+```
+
+Filtrar tareas:
+
+```text
+http://localhost:5003/api/Tareas/filtro?estado=Pendiente&prioridad=Alta
+```
+
+
+
+
+
 # Documentación
 
 La documentación técnica se encuentra en:
